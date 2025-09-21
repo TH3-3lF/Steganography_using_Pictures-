@@ -87,35 +87,11 @@ Decryption message: Hello World!
 - The password protection is simple and not cryptographically secure
 - For production use, consider implementing proper encryption algorithms
 
-⚠️ **Limitations**:
-- Message length is limited by image size
-- Only works with specific image formats
-- No error handling for invalid inputs or corrupted images
-k the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## Potential Improvements
-
-- Add support for multiple image formats
-- Implement stronger encryption methods
-- Add error handling and input validation
-- Create a GUI interface
-- Support for longer messages
-- Image compression resistance
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
 This tool is for educational purposes only. Users are responsible for ensuring they comply with all applicable laws and regulations when using steganography tools.
 
-## Author
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
 
 Project Link: [https://github.com/TH3-3lF/Steganography_using_Pictures-](https://github.com/TH3-3lF/Steganography_using_Pictures-)
